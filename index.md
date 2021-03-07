@@ -9,7 +9,7 @@ As part of this activity, each boy will be asked to share some information they 
 1. Pick a random number between 1 and 100.
 2. Look up the career associated with the number you chose to in the [career list](career-list.md). This is your assigned career.
 3. Answer, to the best of your ability, the following questions:
-   1. What is the average salary for the career?
-   2. What eduation is required for the career?
+   -  What is the average salary for the career?
+   -  What eduation is required for the career?
       - Does it require a high school diploma?
       - Does it require college and/or vocational training?
