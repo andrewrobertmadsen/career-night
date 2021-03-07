@@ -1,6 +1,6 @@
 # Welcome To Career Night!
 
-As a Aaronic Priesthood Quorum we're going to be discussing careers with the boys this Wednesday, March 10th.
+As a Aaronic Priesthood Quorum we're going to be discussing careers with the boys this Wednesday, March 10th at 6:30 PM.
 The goal of the career night is to gain exposure to different career options and learn a little about the compensation and lifestyle associated with different careers.
 As part of this activity, each boy will be asked to share some information they have gathered about their assigned career with the group.
 
