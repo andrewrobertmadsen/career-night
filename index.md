@@ -19,6 +19,6 @@ As part of this activity, each boy will be asked to share some information they 
      - What is the average annual earings (salary, commision, etc) for this career?
      - Do people with the career typically earn bonuses in addition to base pay?
    - Housing
-     - How much home will you be able to comfortably afford with this career? Estimate this as 3x the average career salary.
+     - How much home will you be able to comfortably afford with this career? Estimate this as 3.5x the average annual earnings for the career.
      - What do homes in your desired neighborhood cost?
      - Will you be able to afford a home in your desired neighborhood with this career?
