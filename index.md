@@ -5,7 +5,7 @@ The meeting will be held in Bishop Bickmore's backyard and dinner will be provid
 Bring your mask and a camp chair, if you have one, as we'll be social distancing. Masks are required except while eating.
 The goal of the career night is to gain exposure to different career options and learn a little about the compensation and lifestyle associated with different careers.
 As part of this activity, each boy will be asked to share some information they have gathered about their assigned career with the group.
-This will only take 10-15 minutes and may require some help from an adult.
+This information gathering should only take about 10 minutes and may require some help from an adult.
 
 ## Instructions
 
@@ -23,4 +23,4 @@ This will only take 10-15 minutes and may require some help from an adult.
    - Housing
      - How much home will you be able to afford with this career? With our historically low interest rates, estimate this as 4x the average annual earnings for the career.
      - Realtor.com shows that asking prices for homes in our neighborhood are currently $460,000 to $590,000. Could you afford a home in our neighborhood with this career?
-4. Meet at Bishop's house to discuss your answers the above questions for the career you were assigned, eat dinner and see some friends.
+4. Meet at Bishop's house to discuss your answers to the above questions for the career you were assigned, eat dinner and see some friends.
