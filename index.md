@@ -10,8 +10,7 @@ As part of this activity, each boy will be asked to share some information they 
 2. Look up the career associated with the number you chose to in the [career list](career-list.md). This is your assigned career.
 3. Answer, to the best of your ability, the following questions:
    - Education
-     - What eduation is required for the career?
-     - Does it require college or vocational training?
+     - What eduation is required for the career? Does it require college or vocational training?
      - How many years of college or vocational training are required?
      - How much will this education cost? Estimate this cost as $10,000 per year.
      - How old will you be when you finish schooling and are ready to work?
@@ -19,6 +18,5 @@ As part of this activity, each boy will be asked to share some information they 
      - What is the average annual earings (salary, commision, etc) for this career?
      - Do people with the career typically earn bonuses in addition to base pay?
    - Housing
-     - How much home will you be able to comfortably afford with this career? Estimate this as 3.5x the average annual earnings for the career.
-     - What do homes in your desired neighborhood cost?
-     - Will you be able to afford a home in your desired neighborhood with this career?
+     - How much home will you be able to afford with this career? With our historically low interest rates, estimate this as 4x the average annual earnings for the career.
+     - Realtor.com shows that asking prices for homes in our neighborhood are currently $460,000 to $590,000. Could you afford a home in our neighborhood with this career?
