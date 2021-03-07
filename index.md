@@ -15,4 +15,5 @@ As part of this activity, each boy will be asked to share some information they 
      - How much will this education cost? Estimate this cost as $10,000 per year.
    - How old will you be when you finish schooling and are ready to work?
    - What is the average salary for the career?
-   - What cost of home will your career afford you? Estimate this as 3 x the average career salary?
+   - How much home will you be able to comfortably afford with this career? Estimate this as 3x the average career salary.
+     - Extra credit - What do homes in the area you want to live cost?
