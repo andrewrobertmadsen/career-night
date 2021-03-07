@@ -7,5 +7,5 @@ As part of this activity, each boy will be asked to share some information they 
 ## Instructions
 
 1. Pick a random number between 1 and 100.
-2. Look up the number you chose to in the [career list](career_list.md)
+2. Look up the number you chose to in the [career list](https://andrewrobertmadsen.github.io/career-night/career_list.md)
 
