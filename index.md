@@ -10,7 +10,7 @@ This information gathering should only take about 10 minutes and may require som
 ## Instructions
 
 1. Pick a random number between 1 and 100.
-2. Look up the career associated with the number you chose to in the [career list](career-list.md). This is your assigned career.
+2. Look up the career associated with the number you chose in the [career list](career-list.md). This is your assigned career.
 3. Answer, to the best of your ability, the following questions. You can google it or ask someone if you know someone with your assigned career.
    - Education
      - What eduation is required for the career? Does it require college or vocational training?
