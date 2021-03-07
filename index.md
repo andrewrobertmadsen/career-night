@@ -1,6 +1,6 @@
 # Welcome To Career Night!
 
-As a Aaronic Priesthood Quorum we're going to be discussing careers with the boys this Wednesday, March 10th at 6:00 PM.
+As an Aaronic Priesthood Quorum we're going to be discussing careers with the boys this Wednesday, March 10th at 6:00 PM.
 The meeting will be held in Bishop Bickmore's backyard and dinner will be provided (hamburgers and hotdogs, chips, and drinks).
 Bring your mask and a camp chair, if you have one, as we'll be social distancing. Masks are required except while eating.
 The goal of the career night is to gain exposure to different career options and learn a little about the compensation and lifestyle associated with different careers.
