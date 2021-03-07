@@ -13,4 +13,4 @@ As part of this activity, each boy will be asked to share some information they 
    - What eduation is required for the career?
      - Does it require college or vocational training?
      - How many years of college or vocational training are required?
-     - How much will this education cost? Estimate this cost of any college as $10,000 per year. 
+     - How much will this education cost? Estimate this cost as $10,000 per year. 
